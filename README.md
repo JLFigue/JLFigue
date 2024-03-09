@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning SQL
 - 💞️ I’m looking to collaborate on Flutter
 - 📫 How to reach me https://www.linkedin.com/in/jose-figueredo-998215211/
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Just do it
 
 <!---
 JLFigue/JLFigue is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
